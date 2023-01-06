@@ -5,6 +5,7 @@ I do machine learning in Rust, CUDA, Python, and R, with no order of preference.
 ### I'm working on...
 | Project 	| Language & Link 	|
 |-	|-	|
+| Sharing ML Models | [Python](https://github.com/shareableai/jackdaw) |
 | Neural Networks | [Rust](https://github.com/spearow/juice) 	|
 | Gradient Boosted Forest  	| [Rust](https://gitlab.com/EdenHyacinth/randomforust) 	|
 | Identifiable Hashing for Tabular Data | [Python & Rust](https://github.com/lissahyacinth/idhash-py) |
